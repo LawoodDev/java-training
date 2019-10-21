@@ -25,7 +25,6 @@ public class StringTraining {
      * @return if origin string is equal to compare string
      */
     public static boolean equals(String origin, String compare) {
-
         return origin.equals(compare);
     }
 
